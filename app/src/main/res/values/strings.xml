@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ModernArtUI_1</string>
+    <string name="menu_more_information">More information</string>
+    <string name="menu_repaint_rects">Repaint rectangles</string>
+    <string name="dialog_title">Information</string>
+    <string name="dialog_text">Inspired by the lections of \r\n professor Dr. Adam Porter. \r\n\r\nClick below to learn more\r\n</string>
+    <string name="dialog_btnYes">Visit coursera</string>
+    <string name="dialog_btnNo">Not now</string>
+    <string name="uri_coursera">https://www.coursera.org/learn/android-programming/home/info</string>
+</resources>

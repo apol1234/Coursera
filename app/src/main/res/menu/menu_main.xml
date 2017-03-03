@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/repaint_rects"
+        android:orderInCategory="100"
+        android:title="@string/menu_repaint_rects"
+        />
+    <item
+        android:id="@+id/more_information"
+        android:orderInCategory="100"
+        android:title="@string/menu_more_information"
+         />
+</menu>
